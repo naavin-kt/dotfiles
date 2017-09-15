@@ -1,0 +1,23 @@
+// ~/Library/Application Support/Sublime Text 3/Packages/User
+{
+	"color_scheme": "Packages/User/SublimeLinter/LAZY (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"public/dist",
+		"public/lib",
+		".git"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		195
+	],
+	"show_full_path": true,
+	"theme": "Default.sublime-theme",
+	"word_wrap": true
+}
