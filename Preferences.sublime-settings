@@ -1,6 +1,6 @@
-// ~/Library/Application Support/Sublime Text 3/Packages/User
 {
 	"color_scheme": "Packages/User/SublimeLinter/LAZY (SL).tmTheme",
+	"detect_indentation": true,
 	"folder_exclude_patterns":
 	[
 		"node_modules",
@@ -18,6 +18,10 @@
 		195
 	],
 	"show_full_path": true,
+	"tab_size": 2,
 	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
