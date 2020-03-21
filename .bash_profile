@@ -51,4 +51,6 @@ alias sourcetree='open -a SourceTree'
 alias ip="printf 'ip ' && curl whatismyip.akamai.com && ifconfig en0 inet | grep 'inet '"
 alias python-server="python -m SimpleHTTPServer 8000"
 alias cwp="cd ~/Codes/redemption-app-v2"
-alias rn-clear="watchman watch-del-all && rm -rf $TMPDIR/react-native-packager-cache-* && rm $TMPDIR/metro-bundler-cache-*"
+alias rn-clear="watchman watch-del-all && rm -rfv $TMPDIR/react-* && rm -rfv $TMPDIR/react-native-packager-cache-* && rm -rfv $TMPDIR/metro-bundler-cache-*"
+alias sd='printf "\e]1337;SetProfile=Dark\007"'
+alias sl='printf "\e]1337;SetProfile=Default\007"'
