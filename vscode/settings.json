@@ -1,0 +1,41 @@
+{
+    "[javascript]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.organizeImports": false,
+        },
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": false,
+    },
+    "editor.fontSize": 11,
+    "editor.fontWeight": 549,
+    "editor.insertSpaces": true,
+    "editor.quickSuggestions": {
+        "comments": false,
+        "other": true,
+        "strings": false
+    },
+    "editor.rulers": [
+        80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.tabSize": 2,
+    "editor.wordBasedSuggestions": false,
+    "editor.wordWrap": "on",
+    "files.trimTrailingWhitespace": true,
+    // "javascript.autoClosingTags": true,
+    // "javascript.format.enable": true,
+    // "javascript.suggest.autoImports": true,
+    // "javascript.suggestionActions.enabled": true,
+    "jshint.enable": false,
+    "terminal.integrated.fontWeight": "normal",
+    "window.autoDetectColorScheme": true,
+    "workbench.colorTheme": "Atom One Light",
+    "workbench.fontAliasing": "auto",
+    "workbench.preferredDarkColorTheme": "Atom One Dark",
+    "workbench.preferredLightColorTheme": "Atom One Light"
+}
